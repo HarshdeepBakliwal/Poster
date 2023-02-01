@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+}
+.img{
+    border-radius: 300px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.a{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 0px;
+    font-family: 'Trocchi', serif;
+    color: #7c795d;
+}
+.b{
+    font-size: 27px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkcyan;
+    left:280px;
+    position: absolute;
+}
+.c{
+    font-size: 27px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkcyan;
+    position: absolute;
+    right: 380px;
+}
